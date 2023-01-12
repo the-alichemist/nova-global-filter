@@ -1,5 +1,5 @@
 {
-    "name": "nemrutco/nova-global-filter",
+    "name": "martenvanurk/nova4-global-filter",
     "description": "This package allows you to broadcast any of your existing Laravel Nova filters to metrics or custom cards.",
     "keywords": [
         "laravel",
@@ -28,7 +28,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Nemrutco\\NovaGlobalFilter\\CardServiceProvider"
+                "martenvanurk\\NovaGlobalFilter\\CardServiceProvider"
             ]
         }
     },
