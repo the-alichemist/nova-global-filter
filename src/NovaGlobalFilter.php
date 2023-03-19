@@ -66,4 +66,8 @@ class NovaGlobalFilter extends Card
         $this->title = $title;
         return $this;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f7d11cd65d4c1c4d5785f65ab5e5756acc5c4017
